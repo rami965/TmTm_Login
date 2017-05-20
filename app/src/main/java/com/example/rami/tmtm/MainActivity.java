@@ -21,4 +21,8 @@ public class MainActivity extends AppCompatActivity {
     void test(){
         System.out.println("test method");
     }
+    
+    void secondTest(){
+        System.out.println("test method");
+    }
 }
